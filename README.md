@@ -52,7 +52,7 @@ Enter the date and time in the format YYYY-MM-DD HH:MM: 2024-12-31 23:59
 The application will start counting down to the specified date and time, updating every second.
 Example
 Enter the date and time in the format YYYY-MM-DD HH:MM: 2024-12-31 23:59
-Remaining: 1 days 23 hours 59 minutes 59 seconds
+Remaining: 57 hours 59 minutes 59 seconds
 ```
 
 ## License
